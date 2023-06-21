@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Light.ttf'),
+       url('../fonts/Lato-Regular.ttf'),
+       url('../fonts/Lato-Medium.ttf'),
+       url('../fonts/Lato-SemiBold.ttf'),
+       url('../fonts/Lato-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('../fonts/Quicksand-Regular.ttf'),
+       url('../fonts/Quicksand-Medium.ttf'),
+       url('../fonts/Quicksand-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Suprema';
+  src: url('../fonts/Suprema-Regular.ttf'),
+       url('../fonts/Suprema-SemiBold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
